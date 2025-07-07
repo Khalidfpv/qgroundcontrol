@@ -27,5 +27,5 @@ The information provided should be correct, but you may find missing information
 :::
 
 ::: tip
-Information about _QGroundControl_ development, architecture, contributing, and translating can be found in the [Developer Guide](../qgc-dev-guide/index.md) section.
+Information about _QGroundControl_ development, architecture, contributing, and translating can be found in the [Developer Guide](../qgc-dev-guide/index.md) section
 :::
